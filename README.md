@@ -42,6 +42,7 @@ Ever since we got our first PC at home to share with my sisters, I've had a pass
   <img align="center" src="https://my-stats-nu-blond.vercel.app/api/top-langs/?username=albertomtferreira&theme=ambient_gradient&show_icons=true&layout=compact&hide_border=true&exclude_repo=github-readme-stats,anuraghazra.github.io,feup-csr&hide=html,tex" />
 </div>
 
+<a href="https://app.daily.dev/albertoferreira"><img src="https://api.daily.dev/devcards/951c1146b7e4439cb2736e02e0683866.png?r=jyp" width="400" alt="Alberto Ferreira's Dev Card"/></a>
 
 
 
