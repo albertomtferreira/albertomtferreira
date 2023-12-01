@@ -1,10 +1,17 @@
 ### Hellooooo 👋. I'm Alberto Ferreira
 
 <!--- Description --->
-Currently living in London (UK) and working on a total different environment than IT!
-
-Ever since we got our first PC at home to share with my sisters, I've had a passion for IT. I was about 9 or 10 years old at the time, and the arrival of an IT company that delivered and left us with some card boxes sparked my interest in the field. We had no idea what to do with them at the time, but that's where my journey began, with a Windows 3.11 operating system. Over the years, I've had many adventures and misadventures in IT, which I may detail sometime in the future. Fast forward to 2020, I decided to get back into coding and development, and enrolled in an e-learning platform called [Udemy](https://www.udemy.com/). I attended some trainings from [Andrei Neagoie](https://github.com/aneagoie) and his team at [Zero to Mastery](https://github.com/zero-to-mastery), and I found that coding and being able to produce something from scratch is a passion and a therapy after intense days at work.
-
+<div>
+  <a href="https://app.daily.dev/albertoferreira"><img src="https://api.daily.dev/devcards/951c1146b7e4439cb2736e02e0683866.png?r=jyp" align="right" width="400" alt="Alberto Ferreira's Dev Card"/></a>
+  <h6 align="justify">
+    Currently living in London (UK) and working on a total different environment than IT!
+    Ever since we got our first PC at home to share with my sisters, I've had a passion for IT. I was about 9 or 10 years old at the time, and the arrival of an IT company that delivered and left us with some card boxes sparked my interest in the field. We had no idea
+    what to do with them at the time, but that's where my journey began, with a Windows 3.11 operating system. Over the years, I've had many adventures and misadventures in IT, which I may detail sometime in the future. Fast forward to 2020, I decided to get back into
+    coding and development, and enrolled in an e-learning platform called <a href="https://www.udemy.com/">Udemy</a>. I attended some trainings from <a href="https://github.com/aneagoie">Andrei Neagoie</a> and his team at 
+    <a href="https://github.com/zero-to-mastery">Zero to Mastery</a>, and I found that coding and being able to produce something from scratch is a passion and a therapy after intense days at work.
+  </h6>
+  
+</div>
 </br>
 <div>
 <!--- Social Media Profiles and email --->
@@ -16,33 +23,34 @@ Ever since we got our first PC at home to share with my sisters, I've had a pass
 </a>
 </div>
 
-### 🔭 I’m currently working with
-<p>
-<img alt="Static Badge" src="https://img.shields.io/badge/OS-Windows-blue?style=plastic&logo=Windows&logoColor=white"/>
-<img alt="Static Badge" src="https://img.shields.io/badge/Tools-Git-blue?style=plastic&logo=Github&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Editor-Visual%20Studio-blue?style=plastic&logo=visual%20studio&logoColor=white">
-</p>
-
-### 🌱 I’m currently learning ...
-<p>
-  <img alt="Static Badge" src="https://img.shields.io/badge/Code-Java-blue?style=plastic&logo=Javascript&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Code-NodeJS-blue?style=plastic&logo=NodeJS&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Code-HTML-blue?style=plastic&logo=HTML&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Code-React-blue?style=plastic&logo=React&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Code-Firebase-blue?style=plastic&logo=Firebase&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Code-Stripe-blue?style=plastic&logo=Stripe&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Code-Typescript-blue?style=plastic&logo=Typescript&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Code-GraphQL-blue?style=plastic&logo=GraphQL&logoColor=white">
-</p>
+<div align="left">
+  <h3> 🔭 I’m currently working with</h3>
+    <p>
+      <img alt="Static Badge" src="https://img.shields.io/badge/OS-Windows-blue?style=plastic&logo=Windows&logoColor=white"/>
+      <img alt="Static Badge" src="https://img.shields.io/badge/Tools-Git-blue?style=plastic&logo=Github&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Editor-Visual%20Studio-blue?style=plastic&logo=visual%20studio&logoColor=white">
+    </p>
+  <h3>🌱 I’m currently learning ...</h3>  
+    <p>
+      <img alt="Static Badge" src="https://img.shields.io/badge/Code-Java-blue?style=plastic&logo=Javascript&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Code-NodeJS-blue?style=plastic&logo=NodeJS&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Code-HTML-blue?style=plastic&logo=HTML&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Code-React-blue?style=plastic&logo=React&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Code-Firebase-blue?style=plastic&logo=Firebase&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Code-Stripe-blue?style=plastic&logo=Stripe&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Code-Typescript-blue?style=plastic&logo=Typescript&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Code-GraphQL-blue?style=plastic&logo=GraphQL&logoColor=white">
+    </p>
+  
+</div>
 
 ### 📈 My Stats
 
 <div>
-<img align="center" src="https://my-stats-nu-blond.vercel.app/api?username=albertomtferreira&count_private=true&theme=ambient_gradient&show_icons=true&hide_border=true" />
-  <img align="center" src="https://my-stats-nu-blond.vercel.app/api/top-langs/?username=albertomtferreira&theme=ambient_gradient&show_icons=true&layout=compact&hide_border=true&exclude_repo=github-readme-stats,anuraghazra.github.io,feup-csr&hide=html,tex" />
+<img align="center" src="https://my-stats-nu-blond.vercel.app/api?username=albertomtferreira&count_private=true&theme=dark&show_icons=true&hide_border=true" />
+  <img align="center" src="https://my-stats-nu-blond.vercel.app/api/top-langs/?username=albertomtferreira&theme=dark&show_icons=true&layout=compact&hide_border=true&exclude_repo=github-readme-stats,anuraghazra.github.io,feup-csr&hide=html,tex" />
 </div>
 
-<a href="https://app.daily.dev/albertoferreira"><img src="https://api.daily.dev/devcards/951c1146b7e4439cb2736e02e0683866.png?r=jyp" width="400" alt="Alberto Ferreira's Dev Card"/></a>
 
 
 
