@@ -4,7 +4,7 @@
 <div>
   <a href="https://app.daily.dev/albertoferreira"><img src="https://api.daily.dev/devcards/951c1146b7e4439cb2736e02e0683866.png?r=jyp" align="right" width="400" alt="Alberto Ferreira's Dev Card"/></a>
   <h6 align="justify">
-    Currently living in London (UK) and working on a total different environment than IT!
+    <h5 align="center" >Currently living in London (UK) and working on a total different environment than IT!</h5>
     Ever since we got our first PC at home to share with my sisters, I've had a passion for IT. I was about 9 or 10 years old at the time, and the arrival of an IT company that delivered and left us with some card boxes sparked my interest in the field. We had no idea
     what to do with them at the time, but that's where my journey began, with a Windows 3.11 operating system. Over the years, I've had many adventures and misadventures in IT, which I may detail sometime in the future. Fast forward to 2020, I decided to get back into
     coding and development, and enrolled in an e-learning platform called <a href="https://www.udemy.com/">Udemy</a>. I attended some trainings from <a href="https://github.com/aneagoie">Andrei Neagoie</a> and his team at 
