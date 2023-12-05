@@ -15,7 +15,7 @@
 </br>
 <div>
 <!--- Social Media Profiles and email --->
-<a href="https://www.linkedin.com/in/alberto-ferreira-34771a168/">
+<a href="https://www.linkedin.com/in/albertomtferreira/">
   <img src="https://github.com/albertomtferreira/albertomtferreira/assets/60177437/bfb4811a-b09a-4c4a-b116-690790330d2c"/>
 </a>
 <a href="mailto:albertomtferreira@gmail.com">
