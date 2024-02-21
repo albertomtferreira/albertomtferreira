@@ -2,7 +2,7 @@
 
 <!--- Description --->
 <div>
-  <a href="https://app.daily.dev/albertoferreira"><img src="https://api.daily.dev/devcards/951c1146b7e4439cb2736e02e0683866.png?r=jyp" align="right" width="400" alt="Alberto Ferreira's Dev Card"/></a>
+  <a href="https://app.daily.dev/albertoferreira"><img src="https://api.daily.dev/devcards/v2/ewX1kkRa7UKJVTt0rUT8Z.png?r=uy6&type=default" align="right" width="400" alt="Alberto Ferreira's Dev Card"/></a>
   <h5 align="center" >Currently living in London (UK) and working on a total different environment than IT!</h5>
   <h6 align="justify">
     Ever since we got our first PC at home to share with my sisters, I've had a passion for IT. I was about 9 or 10 years old at the time, and the arrival of an IT company that delivered and left us with some card boxes sparked my interest in the field. We had no idea
