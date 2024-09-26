@@ -31,11 +31,10 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/Tools-Git-blue?style=plastic&logo=Github&logoColor=white">
       <img alt="Static Badge" src="https://img.shields.io/badge/Editor-Visual%20Studio-blue?style=plastic&logo=visual%20studio&logoColor=white">
     </p>
-  <div>
-    <h1 border-bottom= "none">
-      My Skill Set
-    </h1>
-  </div>
+  
+   # My Skill Set
+
+</div>
 
 ### Frontend  
 <div align="left">  
