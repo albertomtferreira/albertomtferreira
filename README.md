@@ -66,7 +66,6 @@ If it can be structured, it can be improved.
 
 ## 📈 GitHub Stats
 
-![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertomtferreira&show_icons=true&theme=tokyonight)
 ![Alberto's GitHub stats](https://my-stats-nu-blond.vercel.app/api?username=albertomtferreira&show_icons=true&theme=tokyonight)
 
 
