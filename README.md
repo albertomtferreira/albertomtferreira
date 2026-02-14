@@ -61,11 +61,11 @@
 </div>
 
 ### 📈 My Stats
-
+<!---
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=albertomtferreira&show_icons=true&theme=tokyonight" />
 </div>
-
+--->
 
 
 
