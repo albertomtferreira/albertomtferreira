@@ -19,7 +19,7 @@ Coding is my creative outlet. Architecture is my obsession.
 
 Currently focused on:
 > **ClubTrack** – A structured after-school & compliance management platform
-
+> **SchoolComply** - School Compliance and Operational Intelligence SaaS
 ---
 
 ## 🛠 Tech Stack
