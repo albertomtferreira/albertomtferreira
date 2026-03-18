@@ -19,7 +19,9 @@ Coding is my creative outlet. Architecture is my obsession.
 
 Currently focused on:
 > **ClubTrack** – A structured after-school & compliance management platform
+
 > **SchoolComply** - School Compliance and Operational Intelligence SaaS
+
 > **Hub Connect** - Operational efficiency and compliance platform for English Hubs, replacing fragmented spreadsheet workflows with a structured, role-aware and auditable system for managing schools, literacy specialists, bookings, events, reporting and governance.
 
 
