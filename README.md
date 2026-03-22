@@ -22,8 +22,7 @@ Currently focused on:
 
 > **SchoolComply** - School Compliance and Operational Intelligence SaaS
 
-> **Hub Connect** - Operational efficiency and compliance platform for English Hubs, replacing fragmented spreadsheet workflows with a structured, role-aware and auditable system for managing schools, literacy specialists, bookings, events, reporting and governance.
-
+> **[Hub Connect](https://www.hub-connect.co.uk)** - Operational efficiency and compliance platform for English Hubs, replacing fragmented spreadsheet workflows with a structured, role-aware and auditable system for managing schools, literacy specialists, bookings, events, reporting and governance.
 
 ---
 
