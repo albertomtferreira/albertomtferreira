@@ -21,6 +21,8 @@ Currently focused on:
 > **ClubTrack** – A structured after-school & compliance management platform
 
 > **SchoolComply** - School Compliance and Operational Intelligence SaaS
+> 
+> > **[FSM Voucher Splitter](https://fsm-tool-spliter-2026.vercel.app/)** – A streamlined validation and processing tool designed to help schools accurately analyse, verify and prepare Free School Meal voucher data exports through a structured and audit-friendly workflow.
 
 > **[Hub Connect](https://www.hub-connect.co.uk)** - Operational efficiency and compliance platform for English Hubs, replacing fragmented spreadsheet workflows with a structured, role-aware and auditable system for managing schools, literacy specialists, bookings, events, reporting and governance.
 
