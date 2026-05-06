@@ -4,27 +4,33 @@
 💻 Full-stack builder by passion  
 📍 London, UK  
 
-I design and build structured, scalable systems — mostly with **Next.js, TypeScript & Firebase**.  
-Coding is my creative outlet. Architecture is my obsession.
+I design and build operational software systems focused on education, compliance and organisational efficiency.
+
+Most of my work is built with **Next.js, TypeScript & Firebase** — combining clean architecture, scalable data models and real-world workflows.
+
+Coding is my creative outlet. System design is my obsession.
 
 ---
 
 ## 🧠 What I Do
 
-- 🏫 Building SaaS tools for schools & compliance systems
+- 🏫 Building SaaS tools for schools & compliance management
 - ⚙️ Designing RBAC multi-tenant architectures
-- 📊 Creating finance-driven operational dashboards
+- 📊 Creating finance and operations dashboards
 - 🔐 Structuring scalable Firestore data models
-- 🎯 Turning messy processes into clean digital systems
+- 🧩 Transforming fragmented workflows into streamlined systems
 
-Currently focused on:
-> **ClubTrack** – A structured after-school & compliance management platform
+---
 
-> **SchoolComply** - School Compliance and Operational Intelligence SaaS
- 
-> **[FSM Voucher Splitter](https://fsm-tool-spliter-2026.vercel.app/)** – A streamlined validation and processing tool designed to help schools accurately analyse, verify and prepare Free School Meal voucher data exports through a structured and audit-friendly workflow.
+## 🚧 Current Projects
 
-> **[Hub Connect](https://www.hub-connect.co.uk)** - Operational efficiency and compliance platform for English Hubs, replacing fragmented spreadsheet workflows with a structured, role-aware and auditable system for managing schools, literacy specialists, bookings, events, reporting and governance.
+> **ClubTrack** – After-school club management and operational tracking platform for schools.
+
+> **SchoolComply** – School compliance and operational intelligence SaaS platform.
+
+> **[FSM Voucher Splitter](https://fsm-tool-spliter-2026.vercel.app/)** – Validation and processing tool designed to help schools accurately analyse, verify and prepare Free School Meal voucher data exports through an audit-friendly workflow.
+
+> **[Hub Connect](https://www.hub-connect.co.uk)** – Operational efficiency and compliance platform for English Hubs, replacing fragmented spreadsheet workflows with a structured, role-aware and auditable management system.
 
 ---
 
@@ -37,29 +43,31 @@ Currently focused on:
 - Tailwind CSS
 - shadcn/ui
 
-### Backend & Data
+### Backend & Infrastructure
 - Firebase (Auth, Firestore, Storage)
 - PostgreSQL
 - MySQL
-
-### Tooling
-- Git & GitHub
 - Vercel
+
+### Tooling & Workflow
+- Git & GitHub
+- GitHub Actions
 - VS Code
 - Figma
+- Sentry
 
 ---
 
-## 🏗 Builder Mindset
+## 🏗 Engineering Mindset
 
 I care about:
 - Clean architecture
 - Role-based access control
 - Long-term scalability
-- Performance
-- Simplicity over complexity
+- Performance & observability
+- Simplicity over unnecessary complexity
 
-If it can be structured, it can be improved.
+I enjoy building systems that solve operational problems in practical, measurable ways.
 
 ---
 
@@ -73,6 +81,3 @@ If it can be structured, it can be improved.
 ## 📈 GitHub Stats
 
 ![Alberto's GitHub stats](https://my-stats-nu-blond.vercel.app/api?username=albertomtferreira&show_icons=true&theme=tokyonight)
-
-
-
