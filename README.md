@@ -26,7 +26,7 @@ Coding is my creative outlet. System design is my obsession.
 
 > **ClubTrack** – After-school club management and operational tracking platform for schools.
 
-> **SchoolComply** – School compliance and operational intelligence SaaS platform.
+> **[SchoolComply](https://schoolcomply.vercel.app/)** – School compliance and operational intelligence SaaS platform.
 
 > **[FSM Voucher Splitter](https://fsm-tool-spliter-2026.vercel.app/)** – Validation and processing tool designed to help schools accurately analyse, verify and prepare Free School Meal voucher data exports through an audit-friendly workflow.
 
