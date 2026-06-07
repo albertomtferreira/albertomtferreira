@@ -24,13 +24,21 @@ Coding is my creative outlet. System design is my obsession.
 
 ## 🚧 Current Projects
 
-> **ClubTrack** – After-school club management and operational tracking platform for schools.
+> **[Hub Connect](https://www.hub-connect.co.uk)** – Operational efficiency and compliance platform for English Hubs, replacing fragmented spreadsheet workflows with a structured, role-aware and auditable management system.
 
 > **[SchoolComply](https://schoolcomply.vercel.app/)** – School compliance and operational intelligence SaaS platform.
 
+> **[ClubTrack](https://clubtrack-two.vercel.app/)** – After-school club management and operational tracking platform for schools.
+
+> **[Debt Analysis](https://debt-analysis-nu.vercel.app/)** - A Next.js analysis and reporting tool for exploring debt data, surfacing key findings and producing operational views.
+
+> **[Credit Card Report](https://credit-card-report.vercel.app/)** - A web app for preparing monthly Barclaycard Commercial credit-card reports from PDF statements.
+
+> **[OF Generator](https://of-generator.vercel.app/)** - A Next.js and Firebase workflow for converting purchase-order PDFs into New Wave Federation order form PDFs.
+
 > **[FSM Voucher Splitter](https://fsm-tool-spliter-2026.vercel.app/)** – Validation and processing tool designed to help schools accurately analyse, verify and prepare Free School Meal voucher data exports through an audit-friendly workflow.
 
-> **[Hub Connect](https://www.hub-connect.co.uk)** – Operational efficiency and compliance platform for English Hubs, replacing fragmented spreadsheet workflows with a structured, role-aware and auditable management system.
+
 
 ---
 
@@ -53,8 +61,14 @@ Coding is my creative outlet. System design is my obsession.
 - Git & GitHub
 - GitHub Actions
 - VS Code
-- Figma
 - Sentry
+
+### AI Tools & Workflows
+- Claude Code (Anthropic CLI for agentic coding)
+- Claude Agents & Multi-Agent Workflows (Claude Agent SDK)
+- MCP (Model Context Protocol — tool integrations for Claude)
+- GitHub Copilot
+- OpenAI Codex
 
 ---
 
